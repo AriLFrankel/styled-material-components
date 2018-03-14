@@ -76,7 +76,7 @@ class ScreenSizeContextBase extends Component {
    * this method uses the priorities of screenSizes in the theme
    * to determine which screenSize would be the next lowest one
    * relative to the current size. Columns attempt to match the lower
-   * screenSize props when the curren screenSize isn't defined.
+   * screenSize props when the current screenSize isn't defined.
    *
    * @param {String} active current active screenSize
    */
